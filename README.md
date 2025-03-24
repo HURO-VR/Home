@@ -23,29 +23,3 @@ karansoin (Karan Soin)
 marcottm (Michael Marcotte)
 
 ---
-
-### Project statistics (updated: Thu Mar 20 06:57:43 UTC 2025)
-
-| Metric            | Count |
-### Project statistics (updated: Thu Mar 20 07:26:30 UTC 2025)
-
-| Metric            | Count |
-### Project statistics (updated: Fri Mar 21 00:15:45 UTC 2025)
-
-| Metric            | Count |
-### Project statistics (updated: Sat Mar 22 00:15:22 UTC 2025)
-
-| Metric            | Count |
-### Project statistics (updated: Sun Mar 23 00:17:10 UTC 2025)
-
-| Metric            | Count |
-|-------------------|-------|
-| 1. Open Issues    | **3** |
-| 2. Open PRs      | **3** |
-| 3. Contributors   | **3** |
-| 4. Stars         | **null** |
-| 5. Forks         | **null** |
-| 6. Last Commit   | **null** |
-
-### 📌 CI/CD Status
-![CI](https://img.shields.io/badge/CI-Unknown-lightgrey?style=flat-square)
